@@ -7,7 +7,7 @@
 1. อ่านโจทย์ทั้งหมดใน [`DevOps_TakeHome_Exam.md`](./DevOps_TakeHome_Exam.md)
 2. ใช้โครงโฟลเดอร์ใน repo นี้เป็นจุดตั้งต้น (หรือแตก `devops-starter.zip` ถ้าต้องการ zip เดิม)
 3. ทำงานตามข้อ 1–4 แล้ว push ขึ้น GitHub **public** ของคุณเอง
-4. ส่งลิงก์ repo มาที่ **devops-hiring@lexnetix.co.th** ภายใน 5 วัน
+4. ส่งลิงก์ repo มาที่ **admin@lexnetix.co.th** ภายใน 5 วัน
 
 ---
 
