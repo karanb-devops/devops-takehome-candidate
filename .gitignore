@@ -1,0 +1,11 @@
+.env
+*.key
+*.pem
+*.p12
+kubeconfig
+.kube/
+secrets.yaml
+values.secret.yaml
+node_modules/
+__pycache__/
+.venv/
